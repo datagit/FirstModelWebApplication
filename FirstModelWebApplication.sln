@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstModelWebApplication", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstModelWebApplication.Tests", "FirstModelWebApplication.Tests\FirstModelWebApplication.Tests.csproj", "{3FEB0AF5-6B31-44E5-A466-8E8723288BAC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2BC805E8-A4F8-46FD-A30E-D17EA80AF03D}"
+	ProjectSection(SolutionItems) = preProject
+		aspnet-mvc.gitignore = aspnet-mvc.gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
